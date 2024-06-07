@@ -1,4 +1,4 @@
-"""List: Max Profit ( ** Interview Question)
+"""List: Max Profit 
 You are given a list of integers representing stock prices for a certain company over a period of time, where each element in the list corresponds to the stock price for a specific day.
 
 You are allowed to buy one share of the stock on one day and sell it on a later day.
