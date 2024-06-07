@@ -1,4 +1,4 @@
-"""List: Max Sub Array ( ** Interview Question)
+"""List: Max Sub Array
 Given an array of integers nums, write a function max_subarray(nums) that finds the contiguous subarray (containing at least one number) with the largest sum and returns its sum.
 
 Remember to also account for an array with 0 items.
