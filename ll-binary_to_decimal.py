@@ -1,4 +1,4 @@
-"""LL: Binary to Decimal ( ** Interview Question)
+"""LL: Binary to Decimal
 Your task is to implement the binary_to_decimal method for the LinkedList class. This method should convert a binary number, represented as a linked list, to its decimal equivalent.
 
 In this context, a binary number is a sequence of 0s and 1s. The LinkedList class represents this binary number such that each node in the linked list contains a single digit (0 or 1) of the binary number, and the whole number is formed by traversing the linked list from the head to the end.
